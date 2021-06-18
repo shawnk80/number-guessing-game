@@ -1,11 +1,15 @@
 /* styles.css */
 body {
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: 'Courier New', Courier, monospace
   font-weight: 300;
   text-align: center;
 }
 
 h1 {
   font-weight: 400
+}
+
+#previous-guess {
+  font-style: italic;
 }
 
